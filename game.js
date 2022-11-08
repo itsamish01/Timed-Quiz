@@ -1,4 +1,4 @@
-const question = document.querySelector("#.question");
+const question = document.querySelector("#question");
 const choices = Array.from(document.querySelectorAll(".choice-text"));
 const progressText = document.querySelector('#progressText');
 const scoreText = document.querySelector('#score');
@@ -99,7 +99,7 @@ choices.forEach(choice => {
             incrementScore(SCORE_POINTS)
         }
 
-        selectedChoice.parentElement.classList.add(classtoApply)
+        selectedChoice.parentElement.classList.add(classToApply)
 
         setTimeout(() => {
             selectedChoice.parentElement.classList.remove(classToApply)

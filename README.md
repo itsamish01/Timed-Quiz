@@ -12,3 +12,8 @@ HTML, CSS and JavaScript
 
 A general quiz that showcases questions about general knowledge that intrests humans. This quiz should challenge you under pressure due to time contsraint if answered incorrectly.
 
+## Website
+
+https://itsamish01.github.io/Timed-Quiz/
+
+## Screenshot

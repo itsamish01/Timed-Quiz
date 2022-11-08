@@ -16,4 +16,4 @@ A general quiz that showcases questions about general knowledge that intrests hu
 
 https://itsamish01.github.io/Timed-Quiz/
 
-## Screenshot
+## Screenshot<img width="1078" alt="Screen Shot 2022-11-07 at 10 46 47 PM" src="https://user-images.githubusercontent.com/114682284/200478674-b7fe105d-2afe-4ac5-aa22-8a27646b0cfa.png">
